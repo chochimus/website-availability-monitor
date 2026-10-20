@@ -1,0 +1,8 @@
+{
+    "intervalSeconds": 60,
+    "url": [
+        "https://example.com",
+        "https://nodejs.org",
+        "https://openlibrary.org"
+    ]
+}
